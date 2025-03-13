@@ -29,8 +29,7 @@ This is a RESTful API for managing books using Node.js, Express, and MongoDB. Th
    ```
 3. Set up environment variables in a `.env` file:
    ```sh
-   PORT=5000
-   MONGO_URI=your_mongodb_connection_string
+   PORT=3000
    ```
 4. Start the server:
    ```sh
